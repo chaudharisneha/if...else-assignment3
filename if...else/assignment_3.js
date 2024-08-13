@@ -84,7 +84,7 @@ if(ageIdentifier >= 0 && ageIdentifier <= 12){
         }else{
             console.log("senior");
             }
-    
+    //Assignment 9
 let color = "yellow";
 if(color === "red"){
     console.log("Stop");
